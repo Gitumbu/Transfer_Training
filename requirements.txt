@@ -1,0 +1,6 @@
+tensorflow==2.6.0
+fastapi==0.115.7
+python-multipart==0.0.20
+numpy==1.19.5
+Pillow==8.4.0
+
